@@ -2,8 +2,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                  DIVA ARIELLA · GITHUB PROFILE               ║
 ║                                                              ║
-║  Repository: divaariella01-stack                              ║
-║  Replace remaining placeholders with your own information.   ║
+║  Repository: divaariella01-stack                             ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -195,7 +195,7 @@ Let's build something amazing together! ♡
 
 | Project | Description | Tech Stack |
 |:---:|:---|:---:|
-| [PROJECT_ONE](https://github.com/divaariella01-stack/belajar-nextjs-git) | Company Profile | `YOUR_TECH_1` |
+| [PROJECT_ONE](https://github.com/divaariella01-stack/belajar-nextjs-git) | Company Profile | `Next.js & React` |
 
 <br/>
 
