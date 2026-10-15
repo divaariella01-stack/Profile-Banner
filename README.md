@@ -244,13 +244,17 @@ Let's build something amazing together! ♡
 <br/><br/>
 
 
+
+<h3 align="center">🌸 My GitHub Contributions</h3>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=divaariella01-stack&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"
+    src="https://ghchart.rshah.org/FF69B4/divaariella01-stack"
+    alt="GitHub contribution calendar"
     width="100%"
-    alt="GitHub Activity Graph"
   />
 </p>
+
 
 
 ---
