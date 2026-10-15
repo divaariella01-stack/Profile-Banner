@@ -243,13 +243,15 @@ Let's build something amazing together! ♡
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=divaariella01-stack&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=F8BBD0&hide_border=true&custom_title=Diva's%20Contribution%20Journey"
-  alt="GitHub activity graph"
-  width="100%"
-/>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divaariella01-stack&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 
 ---
 
